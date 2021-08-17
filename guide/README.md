@@ -7,7 +7,6 @@ Esta guía te enseñará cosas como:
 - Explicaciones a temas populares como por ejemplo [reacciones](/temas-populares/reacciones.html), [embeds](/temas-populares/incrustaciones.html) y [canvas](/temas-populares/canvas.html).
 - Trabajar con bases de datos como por ejemplo [sequelize](/sequelize/) y [keyv](/keyv/).
 - Empezar con [sharding](/sharding/).
-- Cómo hostear tu bot gratis en [replit](/hosting/replit/).
 - Y mucho más.
 
 Esta guía también cubre temas como errores comunes y cómo resolverlos, mantener tu código ordenado, configurar un entorno de dessarrollo adecuado, etc.
